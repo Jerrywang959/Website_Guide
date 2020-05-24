@@ -57,8 +57,7 @@
 
   - name: 社交
     links:
-    - name: habitica
-      icon: weibo red
+    - name: Habitica
       style: basic
       url: https://habitica.com/
 
@@ -122,6 +121,10 @@
     - name: CSDN
       style: basic
       url: https://edu.csdn.net/
+
+    - name: Julia Packages
+      style: basic
+      url: https://juliapackages.com/    
 
   - name: 娱乐
     links:
