@@ -122,10 +122,6 @@
       style: basic
       url: https://edu.csdn.net/
 
-    - name: Julia Packages
-      style: basic
-      url: https://juliapackages.com/    
-
   - name: 娱乐
     links:
     - name: 优酷
@@ -192,13 +188,7 @@
       style: basic
       url: http://inc.sysu.edu.cn/
 
-  - name: 校园助手
-    links:
-    - name: 空闲自习室查询
-      style: basic
-      url: http://buptclass.com/
-
-  - name: 论坛相关
+  - name: 论坛
     links:
     - name: julia中文社区
       style: basic
@@ -213,3 +203,8 @@
     - name: 阿里云
       style: basic
       url: https://aliyun.com/
+  - name: Julia
+    links:
+    - name: Julia Packages
+      style: basic
+      url: https://juliapackages.com/    
