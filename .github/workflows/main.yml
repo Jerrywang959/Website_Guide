@@ -1,0 +1,23 @@
+name: push to oss
+# Only run this when the master branch changes
+on:
+  push:
+    branches:
+    - master
+
+# This job installs dependencies, build the book, and pushes it to `gh-pages`
+jobs:
+  deploy-book:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    
+    - uses: manyuanrong/setup-ossutil@v1.0
+      with:
+        # endpoint 可以去oss控制台上查看
+        endpoint: "oss-cn-shenzhen.aliyuncs.com"
+        # 使用我们之前配置在secrets里面的accesskeys来配置ossutil
+        access-key-id: ${{ secrets.OSS_KEY_ID }}
+        access-key-secret: ${{ secrets.OSS_KEY_SECRET }}
+    - name: Deply To OSS
+      run: ossutil cp ./* oss://websiteguide/ -urf
