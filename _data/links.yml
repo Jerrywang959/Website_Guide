@@ -57,6 +57,11 @@
 
   - name: 社交
     links:
+    - name: habitica
+      icon: weibo red
+      style: basic
+      url: https://habitica.com/
+
     - name: 微博
       icon: weibo red
       style: basic
@@ -199,3 +204,9 @@
     - name: deepin论坛
       style: basic
       url: https://bbs.deepin.org/
+
+  - name: 云服务
+    links:
+    - name: 阿里云
+      style: basic
+      url: https://aliyun.com/
