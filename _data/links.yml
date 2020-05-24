@@ -109,28 +109,6 @@
       style: basic
       url: http://open.163.com/
 
-    - name: Stack Overflow
-      icon: stack overflow orange
-      style: basic
-      url: https://stackoverflow.com/
-
-    - name: SegmentFault
-      style: basic
-      url: http://segmentfault.com/
-
-    - name: Tutorials Point
-      style: basic
-      url: https://www.tutorialspoint.com/
-
-    - name: Google Open Source
-      icon: code blue
-      style: basic
-      url: https://opensource.google.com/
-
-    - name: CSDN
-      style: basic
-      url: https://edu.csdn.net/
-
   - name: 娱乐
     links:
     - name: 优酷
