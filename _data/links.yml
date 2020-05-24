@@ -1,4 +1,9 @@
 - categories:
+  - name: 个人网站
+    links:
+    - name: 云端笔记
+      style: basic
+      url: https://note.jerrywang.top
   - name: 购物
     links:
     - name: 淘宝
