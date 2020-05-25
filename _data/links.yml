@@ -196,7 +196,10 @@
     - name: tt-rss
       style: basic
       url: http://47.100.240.146:181/
-            
+    - name: uzer.me
+      style: basic
+      url: https://uzer.me/z/apps
+
   - name: Julia
     links:
     - name: Julia Packages
