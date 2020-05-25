@@ -190,6 +190,10 @@
     - name: 阿里云
       style: basic
       url: https://aliyun.com/
+    - name: 内网穿透
+      style: basic
+      url: https://www.natfrp.com/?page=panel&module=sign
+            
   - name: Julia
     links:
     - name: Julia Packages
