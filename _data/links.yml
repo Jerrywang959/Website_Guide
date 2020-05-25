@@ -193,6 +193,9 @@
     - name: 内网穿透
       style: basic
       url: https://www.natfrp.com/?page=panel&module=sign
+    - name: tt-rss
+      style: basic
+      url: http://47.100.240.146:181/
             
   - name: Julia
     links:
