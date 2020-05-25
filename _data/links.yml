@@ -4,19 +4,16 @@
     - name: 云端笔记
       style: basic
       url: https://note.jerrywang.top
-  - name: 购物
+  - name: 在线协作
     links:
-    - name: 淘宝
-      style: orange
-      url: https://www.taobao.com/
-
-    - name: 天猫
-      style: red
-      url: https://www.tmall.com/
-
-    - name: 京东
+    - name: 腾讯文档
       style: basic
-      url: https://www.jd.com/
+      url: https://docs.qq.com/desktop
+
+    - name: 石墨文档
+      style: basic
+      url: https://shimo.im/desktop
+
 
   - name: 工具
     links:
