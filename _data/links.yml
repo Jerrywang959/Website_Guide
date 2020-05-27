@@ -140,6 +140,10 @@
 - categories:
   - name: 中山大学
     links:
+    - name: 健康申报
+      style: basic
+      url: http://jksb.sysu.edu.cn/infoplus/form/XNYQSB/start
+      
     - name: 中大官网
       style: basic
       url: http://www.sysu.edu.cn/
