@@ -211,3 +211,6 @@
     - name: Julia Packages
       style: basic
       url: https://juliapackages.com/    
+    - name: Juliaacademy
+      style: basic
+      url: https://juliaacademy.com/
