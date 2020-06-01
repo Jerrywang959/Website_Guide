@@ -56,6 +56,10 @@
       icon: wikipedia w black
       style: basic
       url: https://www.wikipedia.org/
+      
+    - name: 小鹅通下载
+      style: basic
+      url: http://pekachu.top/
 
   - name: 社交
     links:
