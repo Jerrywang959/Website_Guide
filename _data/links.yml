@@ -209,6 +209,9 @@
     - name: uzer.me
       style: basic
       url: https://uzer.me/z/apps
+    - name: octave(online)
+      style: basic
+      url: http://octave-online.net/
 
   - name: Julia
     links:
