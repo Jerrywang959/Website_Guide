@@ -104,6 +104,10 @@
     - name: 网易公开课
       style: basic
       url: http://open.163.com/
+    
+    - name: kaggle
+      style: basic
+      url: https://www.kaggle.com/
 
   - name: 娱乐
     links:
