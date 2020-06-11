@@ -220,3 +220,6 @@
     - name: Juliaacademy
       style: basic
       url: https://juliaacademy.com/
+    - name: JuliaHub
+      style: basic
+      url: https://juliahub.com/ui/Homebu
