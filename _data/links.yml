@@ -217,7 +217,7 @@
     - name: Julia Packages
       style: basic
       url: https://juliapackages.com/    
-    - name: Juliaacademy
+    - name: Julia Academy
       style: basic
       url: https://juliaacademy.com/
     - name: JuliaHub
