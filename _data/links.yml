@@ -4,6 +4,10 @@
     - name: 云端笔记
       style: basic
       url: https://note.jerrywang.top
+    - name: 个人主页
+      style: basic
+      url: http://jerrywang.top
+
   - name: 在线协作
     links:
     - name: 腾讯文档
@@ -67,20 +71,10 @@
       style: basic
       url: https://habitica.com/
 
-    - name: 微博
-      icon: weibo red
-      style: basic
-      url: https://weibo.com/
-
     - name: 知乎
       icon: zhihu blue
       style: basic
       url: https://www.zhihu.com/
-
-    - name: Facebook
-      icon: facebook f blue
-      style: basic
-      url: https://www.facebook.com/
 
     - name: GitHub
       icon: github black
@@ -92,14 +86,6 @@
     - name: 腾讯课堂
       style: basic
       url: https://ke.qq.com/
-
-    - name: Coursera
-      style: basic
-      url: https://www.coursera.org/
-
-    - name: MOOC
-      style: basic
-      url: http://mooc.org/
 
     - name: 网易公开课
       style: basic
@@ -188,6 +174,9 @@
     - name: deepin论坛
       style: basic
       url: https://bbs.deepin.org/
+    - name: utools论坛
+      style: basic
+      url: https://yuanliao.info
 
   - name: 云服务
     links:
