@@ -98,6 +98,10 @@
     - name: kaggle
       style: basic
       url: https://www.kaggle.com/
+    
+    - name: 知网
+      style: basic
+      url: https://cnki.net/
 
   - name: 娱乐
     links:
