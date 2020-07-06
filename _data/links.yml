@@ -99,9 +99,9 @@
       style: basic
       url: https://www.kaggle.com/
     
-    - name: 知网
+    - name: 知网(中大校外访问)
       style: basic
-      url: https://cnki.net/
+      url: https://cas.sysu.edu.cn/cas/login?service=https%3A%2F%2Fidp.sysu.edu.cn%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Ffsso.cnki.net%2Fshibboleth
 
   - name: 娱乐
     links:
