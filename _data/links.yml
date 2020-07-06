@@ -65,6 +65,10 @@
       style: basic
       url: http://pekachu.top/
 
+    - name: 谷歌镜像
+      style: basic
+      url: http://tools.bugscaner.com/google/
+
   - name: 社交
     links:
     - name: Habitica
