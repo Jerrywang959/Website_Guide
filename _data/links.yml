@@ -99,9 +99,9 @@
       style: basic
       url: https://www.kaggle.com/
     
-    - name: 知网(中大校外访问)
+    - name: 知网
       style: basic
-      url: https://cas.sysu.edu.cn/cas/login?service=https%3A%2F%2Fidp.sysu.edu.cn%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Ffsso.cnki.net%2Fshibboleth
+      url: https://cnki.net
 
   - name: 娱乐
     links:
@@ -178,13 +178,15 @@
     - name: julia中文社区
       style: basic
       url: https://discourse.juliacn.com/
-
     - name: deepin论坛
       style: basic
       url: https://bbs.deepin.org/
     - name: utools论坛
       style: basic
       url: https://yuanliao.info
+    - name: spark-store(投稿)
+      style: basic
+      url: http://www.shenmo.tech:420/?p=91
 
   - name: 云服务
     links:
