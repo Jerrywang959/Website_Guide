@@ -26,10 +26,9 @@
       style: basic
       url: http://www.12306.cn/
 
-    - name: 快递查询
-      icon: truck olive
+    - name: emojixd
       style: basic
-      url: http://www.kuaidi100.com/
+      url: https://emojixd.com/
 
     - name: 网易邮箱
       icon: envelope red
