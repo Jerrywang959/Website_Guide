@@ -7,6 +7,9 @@
     - name: 个人主页
       style: basic
       url: http://jerrywang.top
+    - name: 视频会议
+      style: basic
+      url: https://meet.jerrywang.top/
 
   - name: 在线协作
     links:
