@@ -211,6 +211,9 @@
     - name: octave(online)
       style: basic
       url: http://octave-online.net/
+    - name: 百度网站统计
+      style: basic
+      url: https://tongji.baidu.com/web/homepage/index
 
   - name: Julia
     links:
