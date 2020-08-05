@@ -156,7 +156,7 @@
 
     - name: 本科教务系统(webvpn)
       style: basic
-      url: https://jwxt-443.webvpn.sysu.edu.cn/
+      url: https://jwxt-443.webvpn.sysu.edu.cn/jwxt/#/student
 
     - name: 中山大学图书馆
       style: basic
