@@ -57,14 +57,13 @@
       style: basic
       url: https://fanyi.baidu.com/
 
-    - name: 维基百科
-      icon: wikipedia w black
-      style: basic
-      url: https://www.wikipedia.org/
-      
     - name: 小鹅通下载
       style: basic
       url: http://pekachu.top/
+
+    - name: Github 下载加速
+      style: basic
+      url: https://d.serctl.com/
 
     - name: 谷歌镜像
       style: basic
