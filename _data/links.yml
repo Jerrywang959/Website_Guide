@@ -200,6 +200,10 @@
       style: basic
       url: https://aliyun.com/
 
+    - name: 宿云
+      style: basic
+      url: https://cf.9sep.org/domain
+
     - name: vultr
       style: basic
       url: https://www.vultr.com/
