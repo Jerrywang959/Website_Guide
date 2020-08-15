@@ -10,6 +10,12 @@
     - name: 视频会议
       style: basic
       url: https://meet.jerrywang.top/
+    - name: My Notion(cf)
+      style: basic
+      url: https://blog.jerrywang.top
+    - name: Super.so(my)
+      style: basic
+      url: https://notion.jerrywang.top
 
   - name: 在线协作
     links:
@@ -30,7 +36,7 @@
 
     - name: emojixd
       style: basic
-      url: https://emojixd.com/
+      url: http://emojixd.com/
 
     - name: 网易邮箱
       icon: envelope red
@@ -225,3 +231,12 @@
     - name: JuliaHub
       style: basic
       url: https://juliahub.com/ui/Home
+
+  - name: Notion
+    links:
+    - name: Notion.so
+      style: basic
+      url: https://notion.so
+    - name: Super.so
+      style: basic
+      url: https://super.so
