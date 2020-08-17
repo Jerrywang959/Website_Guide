@@ -18,7 +18,7 @@
       url: https://notion.jerrywang.top
     - name: AdGuard
       style: basic
-      url: http://dsn.localhost
+      url: http://dns.localhost
 
   - name: 在线协作
     links:
