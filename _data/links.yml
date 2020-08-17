@@ -16,6 +16,9 @@
     - name: Super.so(my)
       style: basic
       url: https://notion.jerrywang.top
+    - name: AdGuard
+      style: basic
+      url: http://dsn.localhost
 
   - name: 在线协作
     links:
