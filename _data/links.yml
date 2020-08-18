@@ -16,9 +16,9 @@
     - name: Super.so(my)
       style: basic
       url: https://notion.jerrywang.top
-    - name: AdGuard
+    - name: overleaf
       style: basic
-      url: http://dns.localhost
+      url: https://overleaf.jerrywang.top
 
   - name: 在线协作
     links:
